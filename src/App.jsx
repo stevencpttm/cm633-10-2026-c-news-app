@@ -32,7 +32,7 @@ function App() {
 
   return (
     <div>
-      <h1 style={{ color: "blue" }}>Post List</h1>
+      <h1 style={{ color: "purple" }}>Post List</h1>
       <hr />
       <input
         type="text"
